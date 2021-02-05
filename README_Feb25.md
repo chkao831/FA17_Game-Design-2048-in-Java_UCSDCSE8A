@@ -1,11 +1,11 @@
 //---File Header---//
-File: README.md
-Purpose: Program Description and Short Response
-Name: Chih-Hsuan Kao
-Login: cs8bwagy
-Email: c4kao@ucsd.edu
-Date: Feb 25, 2018
-Sources of Help: N/A
+### File: README.md
+### Purpose: Program Description and Short Response
+### Name: Chih-Hsuan Kao
+#### Login: cs8bwagy
+#### Email: c4kao@ucsd.edu
+#### Date: Feb 25, 2018
+#### Sources of Help: N/A
 
 //PROGRAM DESCRIPTION//
 
