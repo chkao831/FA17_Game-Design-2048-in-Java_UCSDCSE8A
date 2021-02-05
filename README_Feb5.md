@@ -1,9 +1,9 @@
-File: README.md
-Name: Chih-Hsuan Kao
-Login: cs8bwagy
-Email: c4kao@ucsd.edu
-Date: Feb 5, 2018
-Source of Help: N/A
+### File: README.md
+### Name: Chih-Hsuan Kao
+#### Login: cs8bwagy
+#### Email: c4kao@ucsd.edu
+#### Date: Feb 5, 2018
+#### Source of Help: N/A
 
 /---Vim related Questions---/
 (1) :20
